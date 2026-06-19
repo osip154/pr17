@@ -1,4 +1,4 @@
-package com.example.pr17_mirzakamilov_pr23103;
+package com.example.Pr17_Osipov;
 
 import android.content.Context;
 import android.database.Cursor;
